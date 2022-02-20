@@ -1,4 +1,4 @@
-
+<img align="center" alt="Coding" width="1500" height="250" src="https://github.com/srishti-0613/srishti-0613/blob/main/header.png">
 <h1 align="center">A Sophomore CS student from India</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srishti-0613&label=Profile%20views&color=0e75b6&style=flat" alt="srishti-0613" /> </p>
