@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srishti-0613&label=Profile%20views&color=0e75b6&style=flat" alt="srishti-0613" /> </p>
 
-<p align="left"><a href="https://x.com/ShrishtiRaj14" target="blank"><img src="https://img.shields.io/badge/Follow me-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" />
+<p align="left"><a href="https://x.com/SrishtiRaj06" target="blank"><img src="https://img.shields.io/badge/Follow me-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" />
   </a>
 </p>
 
