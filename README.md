@@ -7,13 +7,13 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Flask related projects**
+- 🔭 I am currently working on **Full Stack Development projects**
 
-- 🌱 I’m currently learning **DSA, Blockchain**
+- 🌱 I am currently learning **DSA, Blockchain**
 
-- 👯 I’m looking to collaborate on **Projects in Flask**
+- 👯 I am looking to collaborate on **Projects in Flask, Javascript**
 
-- 🤝 I’m looking for **Peer Programmers**
+- 🤝 I am looking for **Peer Programmers**
 
 - 📫 How to reach me **rajshrishti20@gmail.com**
 
